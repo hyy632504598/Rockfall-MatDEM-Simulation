@@ -1,6 +1,6 @@
 # Rockfall-MatDEM-Simulation
 # A secondary development rockfall movement simulation code based on MatDEM.
-1.Please download MatDEM from matdem.com, this code should run under matlab runtime 2019.
+  1.Please download MatDEM from matdem.com, this code should run under matlab runtime 2019.
   
   2.Then you should unzip "rockfall.zip" into the "MatDEM" folder.
   
